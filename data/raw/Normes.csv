@@ -1,0 +1,3 @@
+NoÉquipement,TypeAnalyse,Référence,NoNormes,Minimum,Maximum,Satisfaisant,DescNormes
+T0401,BPC,Total-BPC,17,0.0,49.0,O,non contaminé
+T0401,BPC,Total-BPC,18,50.0,100000.0,N,contaminé

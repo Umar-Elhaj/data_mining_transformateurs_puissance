@@ -1,0 +1,78 @@
+NomÉquipement,TypeÉquipement
+Camion citerne,Y
+Camion filtre,Y
+Camion Garage,Y
+Commutateur,T
+Condensateur,c
+Condensateur - REBUT,C
+Disj. FHKO-Phase A,D
+Disj. FHKO-Phase B,D
+Disj. FHKO-Phase C,D
+Disjoncteur - REBUT,D
+Disjoncteur BNOB,D
+Disjoncteur DHF,D
+Disjoncteur DHVF,D
+Disjoncteur FHKO,D
+Disjoncteur HLR,D
+Disjoncteur HPF,D
+Disjoncteur KSO,D
+Disjoncteur OR2M,D
+Disjoncteur ORX2M,D
+REBUT,1
+REBUT,C
+REBUT,D
+REBUT,T
+REBUT,Y
+Réservoir - REBUT,Y
+Réservoir Huile neuve,Y
+Réservoir Huile propre,Y
+Réservoir Huile sale,Y
+SCELLÉ,1
+SCELLÉ,C
+SCELLÉ,D
+SCELLÉ,T
+SCELLÉ,Y
+Sélecteur,T
+T.I. H1-en réparation,1
+T.I. H2-en réparation,1
+T.I. H3-en réparation,1
+T.I. Type H1 - Réserve,1
+T.I. Type H2 - Réserve,1
+T.I. Type H3 - Réserve,1
+T.I. Type X1 - Réserve,1
+T.I. Type X2 - Réserve,1
+T.I. Type X3 - Réserve,1
+T.I. X1-en réparation,1
+T.I. X2-en réparation,1
+T.I. X3-en réparation,1
+Transfo auxiliaire,T
+Transfo Déphaseur,T
+Transfo distribution,T
+Transfo Potentiel,T
+Transfo Puissance,T
+Transfo Redresseur,T
+Transfo Redresseur H.T.,T
+Transfo Régulateur,T
+Transformateur,T
+Transformateur - REBUT,T
+Transformateur B,T
+Transformateur courant,T
+Transformateur-Réserve,T
+Traverse isolée,1
+Traverse isolée - REBUT,1
+Traverse isolée de toit,1
+Traverse isolée type C,1
+Traverse isolée type CGK,1
+Traverse isolée type F,1
+Traverse isolée type FU,1
+Traverse isolée type GOE,1
+Traverse isolée type OF,1
+Traverse isolée type OF1,1
+Traverse isolée type U,1
+Traversée isolée H0,1
+Traversée isolée H1,1
+Traversée isolée H2,1
+Traversée isolée H3,1
+Traversée isolée X1,1
+Traversée isolée X2,1
+Traversée isolée X3,1

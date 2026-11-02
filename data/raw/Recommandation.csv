@@ -1,0 +1,60 @@
+TypeAnalyse,CodeRecommandation,Recommandation
+BPC,1,Moins de 50 PPM = Non Contaminé
+BPC,2,50 PPM et plus = Contaminé
+DBPC,1,Aucune action
+DBPC,2,Entre 200 et 800 PPM = Prendre un EPL et planifier l'ajout de DBPC
+DBPC,3,Moins de 200 PPM = Prendre un EPL et planifier un remplacement de l'huile ou une filtration et l'ajout de DBPC
+DBPC,4,Autre recommandation (spécifier)
+ECL,1,Aucune action
+ECL,2,Autre recommandation (spécifier)
+EP,1,Aucune action
+EP,2,Reprise d'un litre d'huile pour essai EPL pour la date ci-dessous
+EP,3,Autre recommandation (spécifier)
+EPL,1,Aucune action
+EPL,2,Reprise de 4 ML pour l'analyse de BPC d'ici la date ci-dessous
+EPL,3,Reprise de 4 ML pour l'analyse de BPC et un litre pour l'analyse EPL d'ici la date ci-dessous
+EPL,4,Reprise d'un litre pour l'analyse FACTEUR DE PUISSANCE d'ici la date ci-dessous
+EPL,5,Reprise de 2 litres d'huile pour les essais EPL et du FACTEUR DE PUISSANCE d'ici la date ci-dessous
+EPL,6,Reprise d'un litre d'huile pour l'essai EPL pour la date ci-dessous
+EPL,7,Laisser en service et planifier le dégazage de l'huile pour l'assécher d'ici 1 an et reprendre 1 litre d'huile pour l'essai EPL pour la date ci-dessous
+EPL,8,Laisser en service et planifier un traitement complet de l'huile (dégazage et terre de foulon) vers la date ci-dessous
+EPL,9,Laisser en service et planifier le remplacement de l'huile vers la date ci-dessous et faire traiter l'huile usée
+EPL,10,Laisser en service et planifier le remplacement immédiat de l'huile et la mettre au rebut
+EPL,11,Mettre hors service et traiter l'huile dans l'équipement
+EPL,12,"Mettre hors service et remplacer l'huile,  la faire traiter"
+EPL,13,"Mettre hors service et remplacer l'huile,  la mettre au rebut"
+EPL,14,Reprise d'une seringue de 30cc pour l'analyse de l'eau et des BPC pour la date ci-dessous
+EPL,15,Reprise d'une seringue de 30cc d'huile pour analyse d'eau seulement pour la date ci-dessous
+EPL,16,Reprise de 4 ML d'huile pour essai des DBPC pour la date ci-dessous
+EPL,17,Reprise d'un litre d'huile pour l'analyse EPL et de 4 ML pour l'essai DBPC pour la date ci-dessous
+EPL,18,Reprise d'un litre pour EPL et d'une seringue de 30cc d'huile pour l'analyse d'eau pour la date ci-dessous
+EPL,19,Reprise d'un litre d'huile pour l'analyse des métaux et un litre pour analyse EPL pour la date ci-dessous
+EPL,20,Reprise d'un litre pour l'analyse des métaux dans l'huile pour la date ci-dessous
+EPL,21,Reprise d'une seringue pour l'analyse des furfurals pour la date ci-dessous
+EPL,24,Autre recommandation (spécifier)
+ESL,1,Aucune action
+ESL,2,Autre recommandation (spécifier)
+FUR,1,Aucune action
+FUR,2,Autre recommandation (spécifier)
+FUR,3,Planifier billet annuel pour analyse de furanne afin de bâtir historique
+GD,1,Aucune action
+GD,2,Reprise de 4 ml pour l'analyse de BPC d'ici la date ci-dessous
+GD,3,Reprise de 4 ml pour l'analyse de BPC et une seringue pour l'analyse GD d'ici la date ci-dessous
+GD,4,Reprise d'une seringue pour l'analyse GD et de l'eau dissoute dans l'huile d'ici la date ci-dessous
+GD,5,Reprise d'une seringue pour l'analyse GD dans les 24 heures et expédier d'urgence
+GD,6,Reprise d'une seringue pour l'analyse GD pour la date ci-dessous
+GD,7,Laisser en service et reprendre une seringue pour analyse GD pour la date ci--dessous et planifier une inspection interne
+GD,8,Mettre hors tension IMMÉDIATEMENT et n'utiliser qu'en cas d'extrême besoin et planifier une inspection interne
+GD,9,Mettre hors service IMMÉDIATEMENT et planifier une inspection interne
+GD,10,Prendre une seringue pour l'analyse des furfurals
+GD,11,Prendre un échantillon dans les 48 heures suivant la remise sous charge
+GD,12,Vérifier ajustement des contacts des prises dans cuve princ. et/ou fuite entre sél. ou comm. et cuve princ. et reprendre une seringue d'ici la date ci-dessous
+GD,13,"Reprise d'une seringue pour l'analyse des GD, eau et DBPC pour la date ci-dessous"
+GD,14,Reprise d'une seringue pour l'analyse de l'eau totale dans l'huile d'ici la date ci-dessous
+GD,15,Reprise d'une seringue pour l'analyse de l'eau dans l'huile et des DBPC pour la date ci-dessous
+GD,16,Reprise de 4 ml pour l'analyse des DBPC d'ici la date ci-dessous
+GD,20,Autre recommandation (spécifier)
+HYD,1,Aucune action
+HYD,2,Autre recommandation (spécifier)
+MDH,1,Aucune action
+MDH,2,Autre recommandation (spécifier)

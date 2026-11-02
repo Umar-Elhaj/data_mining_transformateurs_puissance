@@ -1,0 +1,10 @@
+ÉtatAnalyse,ÉtatCodeAnalyse,DescriptionÉtatAnalyse
+E,0,Saisie terminée
+E,1,Non-satisfaisant
+E,2,Satisfaisant
+E,3,Recommandation
+E,4,Attente d'initiale
+R,0,Rejeté par le tech.
+S,0,Saisie en cours par tech.
+T,0,Terminée et non satisf.
+T,1,Terminée et satisfaisante

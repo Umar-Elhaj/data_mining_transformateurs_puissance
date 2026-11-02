@@ -1,0 +1,22 @@
+table,problème,nb_lignes
+Analyse,DateAnalyse = 30/12/1899 (date vide d'Access),1
+Analyse,DateAnalyse manquante (NULL),131
+Analyse,DatePrélèvement > DateAnalyse,126
+Analyse,TypeAnalyse en minuscules ('dbpc'),221
+Analyse,TypeAnalyse manquant,2
+Analyse,"Ligne 'Gabarit' (modèle de saisie, pas une vraie analyse)",1
+Analyse,NoÉquipement absent de la table Équipement,2
+Gaz Dissous,NoÉquipement différent de celui de la table Analyse,8
+EPL,NoÉquipement différent de celui de la table Analyse,10
+Furane,NoÉquipement différent de celui de la table Analyse,0
+DBPC,NoÉquipement différent de celui de la table Analyse,1
+BPC,NoÉquipement différent de celui de la table Analyse,11
+Métaux Dans Huiles,NoÉquipement différent de celui de la table Analyse,0
+Gaz Dissous,Colonne constante 'MWs',5090
+Gaz Dissous,Tous les gaz = 0 (mesure inexistante),11
+Gaz Dissous,Valeurs négatives,0
+Furane,Valeurs négatives,0
+DBPC,Valeurs négatives,0
+BPC,Valeurs négatives,0
+Métaux Dans Huiles,Valeurs négatives,0
+Équipement,Manufacturier vide ou espace,18

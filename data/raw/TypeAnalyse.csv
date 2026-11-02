@@ -1,0 +1,11 @@
+TypeAnalyse,DescriptionTypeAnalyse,MaitreTypeAnalyse,Graphique
+BPC,BPC,,False
+DBPC,DBPC,,True
+ECL,Essais complets en laboratoire,,False
+EP,Essais partiels,,False
+EPL,Essais partiels en laboratoire,,True
+ESL,Essais spéciaux,,False
+FUR,Furane,,True
+GD,Gaz dissous,,True
+HYD,Hydran,,True
+MDH,Métaux dans l'huile,,False
